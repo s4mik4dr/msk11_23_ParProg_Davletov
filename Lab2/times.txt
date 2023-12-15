@@ -1,0 +1,6 @@
+createArray: 0.000000 секунд
+fillArrayWithIndices: 0.000000 секунд
+printArrayInRange: 0.000000 секунд
+saveArrayToBinaryFile: 0.000000 секунд
+readArrayFromBinaryFile: 0.000000 секунд
+printArrayInRange: 0.001000 секунд
